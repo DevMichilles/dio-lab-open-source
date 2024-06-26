@@ -3,9 +3,9 @@
  ### Welcome, I'm DevMichilles 👋
 
 
-- 👨‍💻 I'm Rodrigo Michilles
-- 🎮 I'm student to gamedev
-- 📠 I'm Back-end | Future: Fullstack
+- 👨‍💻 I'm Rodrigo Michilles.
+- 🎮 I'm student to gamedev.
+- 📠 I'm Back-end | Future: Fullstack.
 - ⚡ Bora Programar!
 
 <h4 align="center">Linguagens / Tecnologias</h4>
